@@ -15,4 +15,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- <b>Linkedin Profile)</b>
+  - [Linkedin](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
