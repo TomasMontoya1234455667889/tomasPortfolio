@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
-  - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Seat Code](https://github.com/TomasMontoya1234455667889/Seat-Code-Project/blob/main/README.md)
  
   <h2>👨‍💻 Certifications:</h2>
 
