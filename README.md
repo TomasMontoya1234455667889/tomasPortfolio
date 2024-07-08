@@ -7,6 +7,9 @@
   
  - <b>Business Intelligence </b>
    - [Aviation Project](https://github.com/TomasMontoya1234455667889/Business-Intelligence-Project/blob/main/README.md)
+
+   <b> Data Visualization </b>
+   - [Van Ardsel Project](https://github.com/TomasMontoya1234455667889/Van-Ardsel-Project/blob/main/README.md)
  
   <h2>👨‍💻 Certifications:</h2>
 
