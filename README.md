@@ -2,9 +2,12 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
+- <b>Data Driven Strategic Management</b>
   - [Seat Code](https://github.com/TomasMontoya1234455667889/Seat-Code-Project/blob/main/README.md)
+  
+ - <b>Business Intelligence </b>
+  
+  - [Aviation Project]()
  
   <h2>👨‍💻 Certifications:</h2>
 
