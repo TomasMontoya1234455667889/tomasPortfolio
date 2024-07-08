@@ -8,7 +8,7 @@
  
   <h2>👨‍💻 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Business Intellience and Data Analytics (LaSalle)</b>
 
   - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
