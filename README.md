@@ -13,7 +13,7 @@
 
 - <b>Business Intellience and Data Analytics (LaSalle)</b>
 
-  - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home lab](https://github.com/TomasMontoya1234455667889/Business-Intelligence-Project/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
