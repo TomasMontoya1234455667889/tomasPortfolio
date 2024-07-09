@@ -23,13 +23,13 @@
   - [Advanced Analytics](https://github.com/TomasMontoya1234455667889/Advanced-Analytics/blob/main/README.md)
  
 - <b>Business Intelligence tools</b>
-  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [](https://github.com/TomasMontoya1234455667889/BI-tools-for-data-management-in-industries/blob/main/README.md)
 
 - <b>Data Lakes</b>
-  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [](https://github.com/TomasMontoya1234455667889/Datalakes/blob/main/README.md)
  
 - <b>Communication Gateways</b>
-  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [](https://github.com/TomasMontoya1234455667889/Communication-Gateway/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
