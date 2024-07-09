@@ -20,7 +20,7 @@
 <h2> 🤳Hobbies:</h2>
 
 - <b>Advanced Analytics</b>
-  - [Advanced Analytics](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [Advanced Analytics](https://github.com/TomasMontoya1234455667889/Advanced-Analytics/blob/main/README.md)
  
 - <b>Business Intelligence tools</b>
   - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
