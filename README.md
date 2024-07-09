@@ -15,8 +15,21 @@
 
 - <b>Business Intellience and Data Analytics (LaSalle)</b>
 
-  - [Active Directory Home lab](https://github.com/TomasMontoya1234455667889/Business-Intelligence-Project/blob/main/README.md)
+  - [LaSalleGPA](https://i.imgur.com/hRzZci3.png)
 
+<h2> 🤳Hobbies:</h2>
+
+- <b>Advanced Analytics)</b>
+  - [Advanced Analytics](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ 
+- <b>Business Intelligence tools)</b>
+  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- <b>Data Lakes)</b>
+  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ 
+- <b>Communication Gateways)</b>
+  - [](https://www.linkedin.com/in/tomas-montoya-359339236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <h2> 🤳 Connect with me:</h2>
 
